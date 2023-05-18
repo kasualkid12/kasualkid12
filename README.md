@@ -1,6 +1,6 @@
-### Hi there, I'm Trey, known as Kasu through my online presence.
+## Hi there, I'm Trey, known as Kasu through my online presence.
 ---
-## TECH STACK:
+### TECH STACK:
 
 <!--
 **kasualkid12/kasualkid12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
