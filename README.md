@@ -7,8 +7,8 @@
 </h2>
  
 <p align='center'>
-[![Kasu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasualkid12&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasualkid12&size_weight=0.5&count_weight=0.5&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kasualkid12&count_private=true&show_icons=true&theme=transparent" height="150"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasualkid12&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent" height="150"></a>
 </p>
 <!--
 **kasualkid12/kasualkid12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
