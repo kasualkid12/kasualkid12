@@ -1,5 +1,5 @@
 ### Hi there, I'm Trey, known as Kasu through my online presence.
-
+---
 ## TECH STACK:
 
 <!--
