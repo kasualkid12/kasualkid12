@@ -1,6 +1,8 @@
-## Hi there, I'm Trey, known as Kasu through my online presence.
+<h1 align='center'>
+  Hi there, I'm Trey, known as Kasu through my online presence.
+</h1>
 ---
-### TECH STACK:
+### 🖥 TECH STACK:
 
 ---
 [![Kasu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasualkid12&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
